@@ -1,0 +1,33 @@
+.matn{
+    background-color: tomato;
+    border: 3px solid white;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.matn-2{
+    background-color: tomato;
+    border: 3px solid white;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.matn-5{
+    background-color: tomato;
+    border: 3px solid white;
+    color: white;
+    padding: 2px;
+    border-radius: 10px;
+    text-align: center;
+    border-top: 35px solid white;
+}
+.matn-3{
+    background-color: tomato;
+    border: 3px solid white;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}

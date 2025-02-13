@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+.matn{
+    width: 1200px;
+}
+.matn-item{
+    background-color: tomato;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    margin: 10px 0px;
+    height: 70px;
+    padding: 20px;
+}

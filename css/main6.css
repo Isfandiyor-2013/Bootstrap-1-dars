@@ -1,0 +1,24 @@
+.matn{
+    background-color: blue;
+    border: 10px solid whitesmoke;
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    
+}
+.matn-item-1{
+    background-color: green;
+    border: 7px solid white;
+    padding: 32px;
+}
+.matn-item-2{
+    background-color: red;
+    padding: 32px;
+    border: 7px solid white;
+}
+.matn-item-3{
+    background-color: black;
+    padding: 30px;
+    border: 7px solid blue;
+}
